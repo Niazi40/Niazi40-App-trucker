@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [com.google.android.material:material:1.10.0] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/2ec6f74b8c8ff90c78406c8a9eb06ec6/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/8fdc7a378b9dce9f4ec3f0dd104c5ffc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/e12d2460063b214abbc856aca18ce3e3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -92,8 +92,8 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/abdulraufniazi/.gradl
 	xmlns:android
 		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:5:5-28:19
-INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:5:5-28:19
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:5:5-31:19
+INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:5:5-31:19
 MERGED from [com.google.android.material:material:1.10.0] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/2ec6f74b8c8ff90c78406c8a9eb06ec6/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/2ec6f74b8c8ff90c78406c8a9eb06ec6/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/abdulraufniazi/.gradle/caches/9.3.1/transforms/8fdc7a378b9dce9f4ec3f0dd104c5ffc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -136,32 +136,38 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/abdulraufniazi/.grad
 		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:13:9-51
 	android:dataExtractionRules
 		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.example.myapplication.MainActivity2
+activity#com.example.myapplication.MainActivity1
 ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:16:13-37
 	android:name
 		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:15:13-42
-activity#com.example.myapplication.MainActivity
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:17:9-27:20
-	android:label
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:20:13-45
+activity#com.example.myapplication.MainActivity2
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:17:9-19:40
 	android:exported
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:19:13-36
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:18:13-42
+activity#com.example.myapplication.MainActivity
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:23:13-45
+	android:exported
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:22:13-36
 	android:theme
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:21:13-55
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:24:13-55
 	android:name
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml:28:27-74
 uses-sdk
 INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/abdulraufniazi/Desktop/Niazi40-App-trucker/app/src/main/AndroidManifest.xml

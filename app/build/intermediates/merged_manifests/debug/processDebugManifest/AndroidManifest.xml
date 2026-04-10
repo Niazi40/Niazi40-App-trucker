@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="com.example.myapplication.MainActivity1"
+            android:exported="false" />
+        <activity
             android:name="com.example.myapplication.MainActivity2"
             android:exported="false" />
         <activity
